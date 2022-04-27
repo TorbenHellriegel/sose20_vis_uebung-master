@@ -1,0 +1,1 @@
+This repository contains the files for the practical programming exercises of the Summer Semester 2020 course "Datenvisualisierung und GPU Computing", which were used to visualize a Tornado from given data samples.
